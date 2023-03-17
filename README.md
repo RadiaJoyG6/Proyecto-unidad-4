@@ -17,4 +17,4 @@ experiencia del usuario
 
 
 [x] Planear ejecutar y pruebas de usabilidad-
-- [x] 
+- [ x ]
