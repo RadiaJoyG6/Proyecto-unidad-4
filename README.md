@@ -7,5 +7,4 @@ Es una red social digida a todas la comunidad educativa y afines que quieran com
 Objetivo✨
 
 
-El objetivo de este proyecto es crear una red social 
-
+El objetivo de este proyecto es crear una red social (GLOW APP) en la cual  podamos compartir tips de estudio, tips de organizacion, estilo de vida  e interactuar con otros usuarios ademas  de que podemos ecribir, leer, actualizar y eliminar posts
