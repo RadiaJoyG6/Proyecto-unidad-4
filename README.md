@@ -5,4 +5,7 @@ Es una red social digida a todas la comunidad educativa y afines que quieran com
 
 
 Objetivo✨
+
+
 El objetivo de este proyecto es crear una red social 
+
