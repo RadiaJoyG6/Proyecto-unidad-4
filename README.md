@@ -11,6 +11,10 @@ El objetivo de este proyecto es crear una red social (GLOW APP) en la cual  poda
 
 
 OBJETIVOS DE APRENDIZAJE PENDIENTES 
+
 experiencia del usuario
 
-[x] Planear ejecutar y pruebas de usabilidad.
+
+
+[x] Planear ejecutar y pruebas de usabilidad-
+- [x] 
