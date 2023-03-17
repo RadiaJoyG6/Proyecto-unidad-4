@@ -11,3 +11,9 @@ El objetivo de este proyecto es crear una red social (GLOW APP) en la cual  poda
 
 
 OBJETIVOS DE APRENDIZAJE
+
+## HISTORIA DE USUARIOS📌:
+![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/1.png)
+![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/2.png)
+![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/3.png)
+![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/4.png)
