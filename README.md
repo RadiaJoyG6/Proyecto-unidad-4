@@ -3,9 +3,9 @@ Es una red social digida a todas la comunidad educativa y afines que quieran com
 
 ![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/image-removebg-preview.png) ![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/image-removebg-preview%20(1).png) ![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/image-removebg-preview%20(2).png)
 
-## Problemática✨
+## Problemática
 
-## Objetivos✨
+## Objetivos
 
 
 El objetivo de este proyecto es crear una red social (GLOW APP) en la cual  podamos compartir tips de estudio, tips de organizacion, estilo de vida  e interactuar con otros usuarios ademas  de que podemos ecribir, leer, actualizar y eliminar posts que hagamos.
@@ -15,7 +15,7 @@ El objetivo de este proyecto es crear una red social (GLOW APP) en la cual  poda
 
 ## Usuarios
 
-## HISTORIA DE USUARIOS📌:
+## Historia de Usuario:
 ![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/1.png)
 ![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/2.png)
 ![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/3.png)
