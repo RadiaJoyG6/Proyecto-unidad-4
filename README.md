@@ -22,3 +22,6 @@ El objetivo de este proyecto es crear una red social (GLOW APP) en la cual  poda
 ![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/4.png)
 ![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/5.png)
 ![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/6.png)
+
+## Prototipo
+[Enlace canva](https://Codigo-SOS.camila-nadinena.repl.co)
