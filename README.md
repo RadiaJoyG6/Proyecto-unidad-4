@@ -17,10 +17,14 @@ El objetivo de este proyecto es crear una red social (GLOW APP) en la cual  poda
 
 ## Funcionalidad
 
-*Encontrar contenido divertido y entretenido.
-*Estar en contacto y actualizacion de Glow App.
-*Hacer Networking profesional independiente.
-*Conocer gente nueva y compartir conocimentos educativos.
+* Encontrar contenido divertido y entretenido.
+ 
+* Estar en contacto y actualizacion de Glow App.
+ 
+* Hacer Networking profesional independiente.
+ 
+* Conocer gente nueva y compartir conocimentos educativos.
+
 
 ## Usuarios
 
