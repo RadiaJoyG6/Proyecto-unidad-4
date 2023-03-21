@@ -5,13 +5,22 @@ Es una red social digida a todas la comunidad educativa y afines que quieran com
 
 ## Problemática
 
+El cuidado tanto de los usuarios como de sus datos y bienes,depende de un manejo adecuado de informacion y de medidas de prevencion  eficiente.
+
 ## Objetivos
+
+El principal proposito es de conectar a todo tipo de personas, completando tu perfil en canales de tips de organizacion, tips de estudios, compartir experiencias y alimentando tu conocimiento de buenas enseñanzas y aprendizaje para todo tipo de publico que compaartan todo tipo de socialismo como salud, educacion y trabajo.
 
 
 El objetivo de este proyecto es crear una red social (GLOW APP) en la cual  podamos compartir tips de estudio, tips de organizacion, estilo de vida  e interactuar con otros usuarios ademas  de que podemos ecribir, leer, actualizar y eliminar posts que hagamos.
 
 
 ## Funcionalidad
+
+-Encontrar contenido divertido y entretenido.
+-Estar en contacto y actualizacion de la red social Educativa.
+-Hacer Networking profesional independiente.
+-Conocer gente nueva y compartir conocimentos educativos.
 
 ## Usuarios
 
