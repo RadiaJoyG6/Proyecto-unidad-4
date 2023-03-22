@@ -7,6 +7,7 @@ Es una red social digida a todas la comunidad educativa y afines que quieran com
 
 El cuidado tanto de los usuarios como de sus datos y bienes,depende de un manejo adecuado de informacion y de medidas de prevencion  eficiente.
 Actualizar la aplicacion con las actualizaciones del sistema operativo
+
 https://www.consalud.es/uploads/s1/18/21/13/8/captura-de-pantalla-app-glow.jpeg
 
 ## Objetivos
