@@ -41,3 +41,8 @@ El objetivo de este proyecto es crear una red social (GLOW APP) en la cual  poda
 
 ## Prototipo
 [Enlace canva](https://www.canva.com/design/DAFcvxcZ8y4/Uh-8tGcEC3VJ4Z05Do0qpw/view?utm_content=DAFcvxcZ8y4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/Prototipado%20-%20Radia%20Joy%20Perlman/1.png)
+![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/Prototipado%20-%20Radia%20Joy%20Perlman/2.png)
+
+
