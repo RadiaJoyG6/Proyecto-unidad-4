@@ -44,5 +44,9 @@ El objetivo de este proyecto es crear una red social (GLOW APP) en la cual  poda
 
 ![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/Prototipado%20-%20Radia%20Joy%20Perlman/1.png)
 ![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/Prototipado%20-%20Radia%20Joy%20Perlman/2.png)
+![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/Prototipado%20-%20Radia%20Joy%20Perlman/3.png)
+![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/Prototipado%20-%20Radia%20Joy%20Perlman/4.png)
+![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/Prototipado%20-%20Radia%20Joy%20Perlman/5.png)
+![Image text](https://github.com/RadiaJoyG6/Proyecto-unidad-4/blob/main/Prototipado%20-%20Radia%20Joy%20Perlman/6.png)
 
 
