@@ -23,7 +23,7 @@ El principal proposito es de conectar a todo tipo de personas, completando tu pe
 
 El objetivo de este proyecto es crear una red social (GLOW APP) en la cual  podamos compartir tips de estudio, tips de organizacion, estilo de vida  e interactuar con otros usuarios ademas  de que podemos ecribir, leer, actualizar y eliminar posts que hagamos.
 
-Tambien ofresemos resolver  problemas y responder a una necesidad determinada.Esta App es un proyecto orientado a servir, donde  tenemos  en cuenta a todo tipo de  usuario y no basarse solamente a nuestra  visión.La idea es llegar al mundo entero y que  vean variedad de post educativos por el bien comun, asi llevar una vida sana y saludable, tanto mental y fisicamente.
+Tambien ofrecemos resolver  problemas y responder a una necesidad determinada.Esta App es un proyecto orientado a servir, donde  tenemos  en cuenta a todo tipo de  usuario y no basarse solamente a nuestra  visión.La idea es llegar al mundo entero y que  vean variedad de post educativos por el bien comun, asi llevar una vida sana y saludable, tanto mental y fisicamente.
 
 ## Funcionalidad
 
